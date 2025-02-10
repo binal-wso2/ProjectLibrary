@@ -4,3 +4,8 @@ ASGARDEO_ORGANIZATION_NAME=projectLibrary
 ASGARDEO_ISSUER=https://api.asgardeo.io/t/projectLibrary/oauth2/token
 NEXT_PUBLIC_ASGARDEO_SERVER_ORIGIN=https://api.asgardeo.io/t/projectLibrary
 NEXT_PUBLIC_ASGARDEO_POST_LOGOUT_REDIRECT_URI=https://www.exposefrombinal.org/
+
+
+
+amazonKeyID = "AKIAJQ$SDNNSDKWMWEWE6A";
+amazonKey = "aXKmOphasdsadsadaw23sfsdrwfsdCtGUV7";
