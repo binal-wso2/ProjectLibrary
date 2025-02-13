@@ -11,4 +11,4 @@ amazonKeyID = "AKIAJQ$SDNNSDKWMWEWE6A";
 amazonKey = "aXKmOphasdsadsadaw23sfsdrwfsdCtGUV7";
 
 
-api.openweathermap.org/data/2.5/weather?q=London,uk&APPID=ea54a1ef9a2d0a7d9a8f240699b7fdfa
+openwhetherapi = "https://api.openweathermap.org/data/2.5/weather?q=London,uk&APPID=ea54a1ef9a2d0a7d9a8f240699b7fdfa"
